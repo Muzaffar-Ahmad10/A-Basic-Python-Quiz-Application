@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lovesandwiches-firstpp3",
+  "private_key_id": "e1c2d05d587eebf9e08deed70bd9767e45706a12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVHEFct4jXD5L1\n24m11EvNu8pP0kGeZGeoc3BZEguZ/dwHigFZLDLaj5FZwVCTHaGw5qzvTnE1d+rw\nJCvJlpaOUa9Unno/ftgOmmVXlz9FsHSCkQcgjTPXvja8nYBVjF0wKXlIGvS3vo56\npxbF/MZNwAIZOZx/QEirIrSNvHDsofHar10yEX8NbQvGrDhFzJO8TGH0KsN9j61o\nh8TZjSeAaewRj805Woj+/IXTcYk1UHY+2x8G/f0plnfaFgozenqZdOt5feRSv2Dc\nNXTzeTc9ZG5SVEfKvuWd3cP18909wPydf5i+xyJZa/emOHmLgIGSBTsOb7kIneXj\nK8RBwYAfAgMBAAECggEACz58N0+nw//qpxuNAOcnaDY3BVnnlNghcPRzjmPr+ArK\nos7nVyAcHZsh7NDFELL1VG+wrsMNimimkMFJhAQVClpijFD/Cva3uDIwXjCLlue9\ngXMKRIwhUq2HVyXRXaIeDNmzyZouxgRanikncHqlQYuvHNPZV0czs6QEVYPWSCG4\nqxja4UpNIV3jxRiKkH4V5MumjZmTQq/ndpdLfoHwBNUYZ2Nxpyf496RkJ9OXnvVG\nLg1F87kmnffSUD48fqY2//Pl7ViWLw/l+CersbxX62lUfhhjHJwpamHjuH4LB20b\nfh8P/gBmyZLqPuX0gfgtb6ll1lSitY6XV1xWfabPAQKBgQDLyycK4cI9Ok6DTwBt\nM8/hgJaNGxjC4/L8cTxMIdYszeDIWkfh2MH8AqfDwT+N7OjD2r0AgAlXeeV2/qGs\n3vvBRm02Wbo+r/SX7GnFkbybPecBHRveRowiV+mhDPabx7i2huiAfs0uboGEzq/4\nKn/V85RUFAi/prGqY2VddPn9wQKBgQC7TvYj/wZMuFZQyEHTgxYpiW9qfNurogwO\nLpQyEkrKsJz3jng/XgZ3P88fTShgDxEhYi1zvWSfhA1mzEzapHBXaXcV7WMdUGyp\nO1cJi8wQWwJaR04bJEz5A688YFnMAQ8QW979DRZnBT7/O2UatqVTDDc41m2NAUxu\nk8lp6JS13wKBgHnqMJMb9311ch6vlku94TDAIlCL00ZT47sNassIuv3WtBBnofUE\nHRhL5lz/MKwQ/Daels7DydLhA1sqfUHTq7w2C4OmLfrufF6eebBNvQ0J/TX3WgKh\nJZguC3/jJ2yOEHxxPIoSUWDjjuwKUc8ebZdqvmOGEK3GZSbPi4ZbQmqBAoGAQZER\nbmZOMTrx1BNVn5Gqh125p6APUVRHPgumCqUGk08hkzLG+v+R6dpnSYC72mxLxdDV\nMkeg2oniGxL28C5RuPeNHRrc8Bz//HluLURHaY5CE5IUUEHzw9M7WzorFNNmD4bp\nVtFm/ycB91w2NxSqaJjFF9tPu+UxeR+4iJ9GtycCgYEAmS/fBlz9sv9jaKBzVeoE\nKUsHbK1ozsSzo9brVH5dh2e2CMxp8bpAeqdtlfRUcOzmSiOuPv1G/HUJuSzqZyAP\nurr7HuZwhDZzNiAu/Del0dLzMWoQxs2YOxwV3u2FzTbhrBD9XklRTIX0L1bSdSOj\nlHsBZxeQmlc34zz6UhawGFo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lovesandwiches-firstpp3@lovesandwiches-firstpp3.iam.gserviceaccount.com",
+  "client_id": "118350557308575430230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lovesandwiches-firstpp3%40lovesandwiches-firstpp3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
