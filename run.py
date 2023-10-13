@@ -31,6 +31,7 @@ def check_answer(answer, guess):
         print("WRONG!")
         return 0
 
+
 #  display functions----    
 def display_score():
     pass
