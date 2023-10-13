@@ -53,7 +53,14 @@ def display_score(correct_Suppos, Suppos):
 
 #  play again functions----    
 def play_again():
-    pass  
+
+    response = input("Do you want to play again? (yes or no): ")
+    response = response.upper()
+
+    if response == "YES":
+        return True
+    else:
+        return False
 
 # Question and Answers ---
 questions = {
