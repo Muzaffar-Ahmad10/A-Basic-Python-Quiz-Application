@@ -33,8 +33,23 @@ def check_answer(answer, guess):
 
 
 #  display functions----    
-def display_score():
-    pass
+def display_score(correct_Suppos, Suppos):
+    print(" ")
+    print("RESULTS")
+    print(" ")
+
+    print("Answers: ", end="")
+    for i in questions:
+        print(questions.get(i), end=" ")
+    print()
+
+    print("Suppos: ", end="")
+    for i in Suppos:
+        print(i, end=" ")
+    print()
+
+    score = int((correct_Suppos/len(questions))*100)
+    print("Your score is: "+str(score)+"%")
 
 #  play again functions----    
 def play_again():
