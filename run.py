@@ -9,7 +9,7 @@ def new_game():
     for key in questions:
         print(" ")
         print(key)
-        for i in options[question_num-1]:
+        for i in Answers[question_num-1]:
             print(i)
         guess = input("Enter (A, B, C, or D): ")
         guess = guess.upper()
@@ -54,10 +54,10 @@ def display_score(correct_Suppos, Suppos):
 #  play again functions----    
 def play_again():
 
-    response = input("Do you want to play again? (yes or no): ")
+    response = input("Do you want to play again? (Y or N): ")
     response = response.upper()
 
-    if response == "YES":
+    if response == "Y":
         return True
     else:
         return False
@@ -74,3 +74,10 @@ Answers = [["A. Ottawa", "B. Toronto", "C. Vancouver", "D. Calgary"],
           ["A. 8", "B. 7", "C. 20", "D. 16"],
           ["A. China", "B. Srilanka", "C. Between Nepal and Tibet", "D. Europe"],
           ["A. True","B. False", "C. sometimes", "D. What's Earth?"]]  
+
+new_game()
+
+while play_again():
+    new_game()
+
+print("See you next Time!")
