@@ -5,3 +5,11 @@
 * This version includes the basic functionalities that user needs.
  
  ![insurting image](/assets/media/responsiv-png)
+
+ ## Project Goles
+
+ * Easy to understand. 
+ * Be abel to result the game.
+ * Also show the percentage of the score numbers. 
+  
+## No Special Requirments Are Required 
