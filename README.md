@@ -6,10 +6,16 @@
  
  ![insurting image](/assets/media/responsiv-png)
 
- ## Project Goles
+ ### Project Goles
 
  * Easy to understand. 
  * Be abel to result the game.
  * Also show the percentage of the score numbers. 
   
-## No Special Requirments Are Required 
+### No Special Requirments Are Required 
+
+* A simple way to start the quiz. 
+* At the end we can see our result. 
+* 
+
+
