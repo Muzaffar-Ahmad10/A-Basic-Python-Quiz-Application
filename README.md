@@ -33,3 +33,14 @@
 
 
  ![insurting image](/assets/media/Quiz-2ad-image.png)
+
+
+ * Here we have final result with percentage.
+ * If user want to play again then press Y and if not then press N, after press N the statement come (See you next time). 
+
+ ![insurting image](/assets/media/quiz-4th-image.png)
+
+ ## Testing 
+  
+  This project is manually tested bye me.
+   * I tested in my local terminal and Render Terminal as well. 
