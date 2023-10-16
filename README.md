@@ -9,7 +9,7 @@
  
  ![insurting image](/assets/media/responsiv-png)
 
- ### Project Goles
+ ## Project Goles
 
  * Easy to understand. 
  * Be abel to result the game.
@@ -23,6 +23,22 @@
  ### How To Play
  * A Basic Python Quiz Application based on four geographics questions.
  * Every Question has four possible answers.
+
+## Technology Used
+
+### Language Used
+
+ * Python
+
+### Python Libraries used
+* os - used to clear terminal.
+* random - used to choose random words.
+
+### Other websites/tools used
+
+* GitHub was used for saving and storing files.
+* GitPod was the IDE used for writing code.
+* Render was used as the deploying platform for this site.
  
  ## Features 
 
@@ -48,3 +64,27 @@
   This project is manually tested bye me.
    * I tested in my local terminal and Render Terminal as well. 
    * Code is not completly passed from PEP8 it has few errors but still working good.
+
+ ### Bugs
+
+ * There was a problem with play again function.
+
+ ### Fixed Bugs 
+
+ * After that it was fixed to add correctly ( return True and else return False) 
+
+ ## Unfixed Bugs
+
+ * No unfixed bugs.
+
+ ## Deployment
+
+ * Deploying the website in Render.
+
+ * The website was deployed to Heroko using following steps
+
+ *  
+
+
+ 
+   
