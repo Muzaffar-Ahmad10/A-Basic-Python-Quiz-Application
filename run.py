@@ -1,6 +1,8 @@
-#  Game functions----
 
 def new_game():
+    """
+    Game functions----
+    """
 
     Suppos = []
     correct_Suppos = 0
@@ -21,8 +23,11 @@ def new_game():
     display_score(correct_Suppos, Suppos)
 
 
-#  Answer functions----    
 def check_answer(answer, guess):
+
+    """
+  Answer functions----    
+    """
 
     if answer == guess:
         print("CORRECT!")
@@ -32,8 +37,11 @@ def check_answer(answer, guess):
         return 0
 
 
-#  display functions----    
 def display_score(correct_Suppos, Suppos):
+
+    """
+  display functions----    
+    """
     print(" ")
     print("RESULTS")
     print(" ")
@@ -51,8 +59,13 @@ def display_score(correct_Suppos, Suppos):
     score = int((correct_Suppos/len(questions))*100)
     print("Your score is: "+str(score)+"%")
 
-#  play again functions----    
+    
+
+
 def play_again():
+    """
+  play again functions----     
+    """
 
     response = input("Do you want to play again? (Y or N): ")
     response = response.upper()
@@ -61,7 +74,7 @@ def play_again():
         return True
     else:
         return False
-
+ 
 # Question and Answers ---
 questions = {
  "Which city is the capital of Canada ?: ": "A",
