@@ -82,7 +82,6 @@
   * Deploying the website in Render. 
 
   *  The website was deployed using code institute instructions. 
-  *  Frok and clone the repository 
   *  create a new app in Render 
   *  Enter the required details 
   *  Link the render app to the repository 
