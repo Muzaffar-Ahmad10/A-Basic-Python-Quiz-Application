@@ -79,19 +79,41 @@
 
  ## Deployment
 
-  * Deploying the website in Render. 
+  * Deploying the website on Render. 
 
-  *  The website was deployed using code institute instructions. 
-  *  create a new app in Render 
-  *  Enter the required details 
-  *  Link the render app to the repository 
-  *  Click on Deploy 
+   ### Login or create an account on Render.
+
+  * Make an account in Render and login,
+  ### Creating an app
+
+ * Create new app 
+ * Select web Service
+ * connect to the github. 
+ * select repository.  
+
+ ### Open settings Tab
+ * give name to project 
+ * Select Region
+ * Store CREDS file from gitpod in key and add the values
+ * Store PORT in key and value
+  
+ ###  Automatic and Manual deploy
+
+ * Choose a method to deploy
+ * After Deploy is clicked it will install various file
+
+ ### Final Deployment
+  * A view button will display
+  * Once clicked the website will open
+  * The website was deployed using code institute instructions. 
+  
 
 
   ### Thank You
 
  * I would like to Say Thank you to my mentor Mo Shami for guide me.
- * I also want to say Thanks to Slack community for helping me when I was getting stuck with some challenges.
+ * I also want to Say Thanks to Slack community for helping me when I was getting stuck with some challenges.
+ * I would like to Say thanks to Tutor Assistance, its help me alot to depoly my project on Render.  
 
   
 
