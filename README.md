@@ -79,11 +79,23 @@
 
  ## Deployment
 
- * Deploying the website in Render.
+  * Deploying the website in Render. 
 
- * The website was deployed to Heroko using following steps
+  *  The website was deployed using code institute instructions. 
+  *  Frok and clone the repository 
+  *  create a new app in Render 
+  *  Enter the required details 
+  *  Link the render app to the repository 
+  *  Click on Deploy 
 
- *  
+
+  ### Thank You
+
+ * I would like to Say Thank you to my mentor Mo Shami for guide me.
+ * I also want to say Thanks to Slack community for helping me when I was getting stuck with some challenges.
+
+  
+
 
 
  
